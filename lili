@@ -1,0 +1,2 @@
+run  mvn compile exec:java
+C:\LR4_test\src\main\java\myArchive.jar
